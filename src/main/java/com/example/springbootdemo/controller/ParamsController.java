@@ -1,4 +1,4 @@
-package com.example.springbootdemo.Controller;
+package com.example.springbootdemo.controller;
 
 import com.example.springbootdemo.entity.User;
 import org.springframework.web.bind.annotation.*;
