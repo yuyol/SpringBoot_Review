@@ -1,4 +1,4 @@
-package com.example.springbootdemo.Controller;
+package com.example.springbootdemo.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.PostMapping;
